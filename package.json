@@ -1,0 +1,19 @@
+{
+  "name": "architech-app",
+  "version": "1.0.0",
+  "description": "Simple template for freelance",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andre-rd-rodrigues/architech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andre-rd-rodrigues/architech/issues"
+  },
+  "homepage": "https://github.com/andre-rd-rodrigues/architech"
+}
